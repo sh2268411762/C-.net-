@@ -1,0 +1,10 @@
+D:\git Code\C-.net-\Week\Week\bin\Debug\Week.exe.config
+D:\git Code\C-.net-\Week\Week\bin\Debug\Week.exe
+D:\git Code\C-.net-\Week\Week\bin\Debug\Week.pdb
+D:\git Code\C-.net-\Week\Week\obj\Debug\Week.csprojAssemblyReference.cache
+D:\git Code\C-.net-\Week\Week\obj\Debug\Week.Properties.Resources.resources
+D:\git Code\C-.net-\Week\Week\obj\Debug\Week.csproj.GenerateResource.cache
+D:\git Code\C-.net-\Week\Week\obj\Debug\Week.csproj.CoreCompileInputs.cache
+D:\git Code\C-.net-\Week\Week\obj\Debug\Week.exe
+D:\git Code\C-.net-\Week\Week\obj\Debug\Week.pdb
+D:\git Code\C-.net-\Week\Week\obj\Debug\Week.Form1.resources
